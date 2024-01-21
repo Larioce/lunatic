@@ -13,7 +13,7 @@ filemenu.add_command(label="Save as...", command=donothing)
 filemenu.add_command(label="Close", command=donothing)
 
 filemenu.add_separator()
-#test
+#test encore
 filemenu.add_command(label="Exit", command=root.quit)
 menubar.add_cascade(label="File", menu=filemenu)
 editmenu = Menu(menubar, tearoff=0)
