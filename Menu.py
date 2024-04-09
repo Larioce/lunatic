@@ -24,3 +24,4 @@ editmenu.add_separator()
 editmenu.add_command(label="Cut", command=donothing)
 editmenu.add_command(label="Copy", command=donothing)
 editmenu.add_command(label="Paste", command=donothing)
+#test
